@@ -1,1 +1,1 @@
-This is line 1 before a branch.
+This is an edited line 1 after the branch.

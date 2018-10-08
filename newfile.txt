@@ -1,1 +1,2 @@
 This is an edited line 1 after the branch. Branches have been merged.
+Made a change which will be pushed
